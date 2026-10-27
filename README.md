@@ -7,7 +7,7 @@ SELCALs that are decoded and displayed may have their associated airframe detail
 The main reason for this program is to display the SELCAL codes in line with the expected tone markings.  If the program does not decode and the tones are present but offset from the marker this may be attributable to one of two reasons:
 
 a.  The receiver is not sufficiently aligned to within +/- 8-10Hz, or
-b.  The transmitter (ground station sending the SELCAL is not aligned
+b.  The transmitter (ground station) sending the SELCAL is not aligned
 
 If you receive decoded SELCALs from a different ground station and the tones are aligned with the markers then it is likely your receiver is aligned but for the errant ground station you will need to retune your receiver to bring the tones in line with the marker.
 
